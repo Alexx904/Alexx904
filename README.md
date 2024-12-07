@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Alexx904
+
+### Hi, I'm Alessandro!
+
+- 👩🏻‍💻 Computer engineering student at the Polytechnic of Bari
 - 👀 I’m interested in AI
-- 🌱 I am currently studying Computer Engineering
 - 📫 email: alessandrominiello@gmail.com
 
 <!---
